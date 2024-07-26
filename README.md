@@ -18,7 +18,7 @@ or ( ipv4 + ipv6 )
 
 
 Update Menu
-<pre><code>wget -q -O /usr/sbin/updatemenu "https://raw.githubusercontent.com/NevermoreSSH/VVV/main/update/updatemenu.sh" && chmod +x /usr/sbin/updatemenu && updatemenu</code></pre>
+<pre><code>wget -q -O /usr/sbin/updatemenu "https://raw.githubusercontent.com/stablemiju009/Autoscript-By-Miju/main/update/updatemenu.sh" && chmod +x /usr/sbin/updatemenu && updatemenu</code></pre>
 
 
 If problem "ERROR: The certificate of 'raw.githubusercontent.com' is not trusted"
